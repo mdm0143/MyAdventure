@@ -14,6 +14,7 @@
 		F49893682B7B258D00AB123D /* MyAdventureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49893672B7B258D00AB123D /* MyAdventureTests.swift */; };
 		F49893722B7B258D00AB123D /* MyAdventureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49893712B7B258D00AB123D /* MyAdventureUITests.swift */; };
 		F49893742B7B258D00AB123D /* MyAdventureUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49893732B7B258D00AB123D /* MyAdventureUITestsLaunchTests.swift */; };
+		F49893812B7B25A600AB123D /* Adventure.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49893802B7B25A600AB123D /* Adventure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F498936D2B7B258D00AB123D /* MyAdventureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyAdventureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F49893712B7B258D00AB123D /* MyAdventureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAdventureUITests.swift; sourceTree = "<group>"; };
 		F49893732B7B258D00AB123D /* MyAdventureUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAdventureUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F49893802B7B25A600AB123D /* Adventure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adventure.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F49893582B7B258C00AB123D /* ContentView.swift */,
 				F498935A2B7B258C00AB123D /* Assets.xcassets */,
 				F498935C2B7B258C00AB123D /* Preview Content */,
+				F49893802B7B25A600AB123D /* Adventure.swift */,
 			);
 			path = MyAdventure;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F49893592B7B258C00AB123D /* ContentView.swift in Sources */,
+				F49893812B7B25A600AB123D /* Adventure.swift in Sources */,
 				F49893572B7B258C00AB123D /* MyAdventureApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
